@@ -1,0 +1,25 @@
+{
+  "name": "shorturl",
+  "version": "0.0.3",
+  "description": "API project for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^6.6.1",
+    "mongoose-sequence": "^5.3.1",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

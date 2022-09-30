@@ -1,7 +1,7 @@
 {
   "name": "shorturl",
   "version": "0.0.3",
-  "description": "API project for freeCodeCamp",
+  "description": "Node.JS MongoDB API project for freeCodeCamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
